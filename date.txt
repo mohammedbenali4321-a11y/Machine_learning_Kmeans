@@ -1,0 +1,17 @@
+Project Name: Iris K-Means Clustering & Scaling Impact Analysis
+
+Author: Mohamed BEN ALI
+
+Institution: Cité des Métiers et des Compétences (CMC) Rabat-Salé-Kénitra(RSK)
+
+Field of Study (Filière): Digital & Artificial Intelligence (Digital et Intelligence Artificielle)
+
+Specialty (Spécialité): Artificial Intelligence & Data Analytics (Technicien Spécialisé - 2nd Year)
+
+Project Creation Date: April(04) 10, 2026, 9:55
+
+Publication Date: November(11) 16, 2026, 14:25
+
+Environment / Tools: Python 3.14, Visual Studio Code, Scikit-learn, Pandas
+
+Professor: SALHI
