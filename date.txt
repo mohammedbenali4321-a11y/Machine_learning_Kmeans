@@ -10,7 +10,7 @@ Specialty (Spécialité): Artificial Intelligence & Data Analytics (Technicien S
 
 Project Creation Date: April(04) 10, 2026, 9:55
 
-Publication Date: November(11) 16, 2026, 14:25
+Publication Date: November(11) 16, 2026, 14:40
 
 Environment / Tools: Python 3.14, Visual Studio Code, Scikit-learn, Pandas
 
