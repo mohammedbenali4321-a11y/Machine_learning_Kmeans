@@ -70,7 +70,7 @@ Technicien Spécialisé en Intelligence Artificielle et Analyse de Données — 
 
 ---
 
-## connect
+## connecte moi sur :
 
 * **LinkeDin** :   [**Mohamed BEN ALI**](https://www.linkedin.com/in/mohamed-ben-ali-m/)  
 * **GitHub**   :  [**Mohamed BEN ALI**](https://github.com/mohammedbenali4321-a11y)  
